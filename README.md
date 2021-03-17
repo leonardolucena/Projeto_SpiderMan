@@ -1,5 +1,5 @@
-<h1> Projeto desenvolvido na FrontWeek </h1>
 <h1> 🕷️ Projeto Homem Aranha 🕷️ </h1>
+<h1> Projeto desenvolvido na FrontWeek </h1>
 
 <h2>🕸️ Descrição do Projeto 🕸️</h2>
 
@@ -13,3 +13,11 @@
 * JavaScript
 * JQuery
 * SVG Inject
+
+<h2> Imagem do Projeto </h2>
+
+![homemaranha](https://user-images.githubusercontent.com/12920246/111504073-1245bf80-8726-11eb-9227-f0681e9d6bf4.png)
+
+<h3> Referências </h3>
+
+[Násser Yousef](https://www.instagram.com/nasser.yousefali/) - Semana FrontWeek
